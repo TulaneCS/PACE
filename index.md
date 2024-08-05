@@ -4,7 +4,7 @@ title: Participatory AI for Community Engagement (PACE 2024) Workshop
 subtitle: HCOMP 2024, October 16 - 19, Pittsburgh, Pennsylvania
 published: true
 ---
-<p style="text-align:center;"><img src="{{ 'img/cover.png' | relative_url }}" /></p>
+<p style="text-align:center;"><img src="{{ 'img/cover.jpg' | relative_url }}" /></p>
 
 ## About the Participatory AI for Community Engagement (PACE 2024) Workshop
 

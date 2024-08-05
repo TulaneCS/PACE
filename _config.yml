@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: 8th International Conference on Algorithmic Decision Theory (ADT 2024)
+title: Participatory AI for Community Engagement (PACE 2024) Workshop
 
 # Short description of your site
-description: ADT 2024
+description: PACE 2024
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -47,7 +47,7 @@ navbar-text-col: "#FFFFFF"
 navbar-children-col: "#FFFFFF"
 page-col: "#FFFFFF"
 link-col: "#0000EE" #"#71C5E8"
-hover-col: "#0033A0"
+hover-col: "#FFEFD5"
 footer-col: "#0033A0"
 footer-text-col: "#FFFFFF"
 footer-link-col: "#FFFFFF"
