@@ -9,7 +9,8 @@ published: true
 
 <p style="text-align:center;"> <img src="{{ 'img/saad-hassan.jpeg' | relative_url }}" alt="Saad Hassan" width="100" height="100">
 </p>
-<p style="text-align:center;"> [Saad Hassan](https://saadh.info/), Tulane University </p>
+<p><a href="https://saadh.info/">Saad Hassan</a>, Tulane University</p></div>
+
   
 * [Syeda Mah Noor Asad](), Tulane University
 * [Motahhare Eslami](https://www.motahhare.com/), Carnegie Mellon University
