@@ -7,9 +7,10 @@ published: true
 
 ## Organizing Committe
 
-<p style="text-align:center;"> <img src="{{ 'img/saad-hassan.jpeg' | relative_url }}" alt="Saad Hassan" width="100" height="100">
-</p>
-<p><a href="https://saadh.info/">Saad Hassan</a>, Tulane University</p></div>
+<div style="text-align:center;">
+  <p><img src="{{ 'img/saad_hassan.jpeg' | relative_url }}" alt="Saad Hassan" width="200" height="200"></p>
+  <p><a href="https://saadh.info/">Saad Hassan</a>, Tulane University</p>
+</div>
 
   
 * [Syeda Mah Noor Asad](), Tulane University
