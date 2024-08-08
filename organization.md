@@ -8,7 +8,7 @@ published: true
 ## Organizing Committe
 
 <div style="text-align:center;">
-  <p><img src="{{ 'img/saad_hassan.jpeg' | relative_url }}" alt="Saad Hassan" width="200" height="200"></p>
+  <p><img src="{{ 'img/saad-hassan.jpeg' | relative_url }}" alt="Saad Hassan" width="200" height="200"></p>
   <p><a href="https://saadh.info/">Saad Hassan</a>, Tulane University</p>
 </div>
 
