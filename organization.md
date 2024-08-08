@@ -7,8 +7,9 @@ published: true
 
 ## Organizing Committe
 
-<p style="text-align:center;"><img src="{{ 'img/saad-hassan.jpeg' | relative_url }}" /></p>
-<p style="text-align:center;"> [Saad Hassan](https://saadh.info/), Tulane University
+<p style="text-align:center;"> <img src="{{ 'img/saad-hassan.jpeg' | relative_url }}" alt="Saad Hassan" width="100" height="100">
+</p>
+<p style="text-align:center;"> [Saad Hassan](https://saadh.info/), Tulane University </p>
   
 * [Syeda Mah Noor Asad](), Tulane University
 * [Motahhare Eslami](https://www.motahhare.com/), Carnegie Mellon University
