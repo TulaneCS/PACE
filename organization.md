@@ -7,10 +7,9 @@ published: true
 
 ## Organizing Committe
 
-<p style="text-align:center;"><img src="{{ 'img/saad_hassan.jpeg' | relative_url }}" /></p>
-
-
-* [Saad Hassan](https://saadh.info/), Tulane University
+<p style="text-align:center;"><img src="{{ 'img/saad-hassan.jpeg' | relative_url }}" /></p>
+<p style="text-align:center;"> [Saad Hassan](https://saadh.info/), Tulane University
+  
 * [Syeda Mah Noor Asad](), Tulane University
 * [Motahhare Eslami](https://www.motahhare.com/), Carnegie Mellon University
 * [Nicholas Mattei](http://www.nickmattei.net/), Tulane University
