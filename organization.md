@@ -34,7 +34,7 @@ published: true
 
 <div style="text-align:center;">
   <p><img src="{{ 'img/john-zimmerman.webp' | relative_url }}" alt="John Zimmerman" width="200" height="200"></p>
-  <p><a href="https://www.cs.cmu.edu/~johnz/">John Zimmerman</a>, Tulane University</p>
+  <p><a href="https://www.cs.cmu.edu/~johnz/">John Zimmerman</a>, Carnegie Mellon University</p>
 </div>
 
 ## Program Committee
