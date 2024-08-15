@@ -33,7 +33,7 @@ scribed in an accompanying short paper.
 - **Formatting**: Authors should prepare their submissions using the AAAI submission templates, available in both [LaTeX/Overleaf](https://www.overleaf.com/latex/templates/aaai-press-latex-template/jymjdgdpdmxp) and [Word](https://dx15.sciencesconf.org/conference/dx15/pages/dx.doc) formats, with LaTeX users encouraged to utilize Overleaf for convenient collaboration. More guidelines can be found [here.](https://aaai.org/aaai-conference/submission-instructions/) Submissions should be in accessible PDF format.
 
 ## Submission Process
-All submissions will be peer-reviewed through a double-blind process. Each submission will be reviewed by at least two program committee members, with an organizing committee member adding a meta-review. Papers must be submitted anonymously as PDF documents via the [Microsoft CMT system](https://cmt3.research.microsoft.com/).
+All submissions will be peer-reviewed through a double-blind process. Each submission will be reviewed by at least two program committee members, with an organizing committee member adding a meta-review. Papers must be submitted anonymously as PDF documents via the [Microsoft CMT system](https://cmt3.research.microsoft.com/PACE2024/Submission/Index).
 
 ### Anonymity Requirements
 - Authors must not reveal their identities in the submitted papers.
