@@ -9,7 +9,7 @@ published: true
 * **Full Paper Submission:** September 20, 2024
 * **Notification:** September 27, 2024
 * **Final Version of Accepted Papers:** October 4, 2024
-* **Workshop Date:** October 16–19, 2024 (Exact day will be announced soon)
+* **Workshop Date:** Saturday, October 19, 2024 (08:00 AM - 12:30 PM EST)
 
 ## Submission Site and Details
 
