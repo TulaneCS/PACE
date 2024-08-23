@@ -15,7 +15,7 @@ Public sector leverages artificial intelligence (AI) to enhance the efficiency, 
 * **Full Paper Submission: SSeptember 20, 2024 AoE** 
 * **Notification: September 27, 2024 AoE** 
 * **Final Version of Accepted Papers: October 3, 2024 AoE** 
-* **Workshop Date Saturday, October 19, 2024 (08:00 AM - 12:30 PM EST)** 
+* **Workshop Date: Saturday, October 19, 2024 (08:00 AM - 12:30 PM EST)** 
 
 Please see the [Submissions Page](./submission) for full details and submission instructions.
 
